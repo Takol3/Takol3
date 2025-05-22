@@ -8,7 +8,12 @@
 
 <h2>📜 Certifications</h2>
 
+- Microsoft Azure Security Engineer Associate (AZ-500)
+- Microsoft Endpoint Administrator Associate (MD-102)
+- Microsoft Azure Administrator Associate (AZ-104)
+- CompTIA Advanced Security Practitioner (CASP+/SecurityX)
 - CompTIA Security Analyst (CySA+)
+- CompTIA PenTest+
 - CompTIA Security+ 
 - CompTIA A+
 - Cisco Certified Network Associate (CCNA)
